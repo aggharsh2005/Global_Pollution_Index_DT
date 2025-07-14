@@ -37,11 +37,6 @@ To build a classification system that predicts pollution severity, enabling acti
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 # 🛠️ Installation
 
 pip install -r requirements.txt
