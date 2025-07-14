@@ -42,14 +42,14 @@ To build a classification system that predicts pollution severity, enabling acti
 
 ---
 
-## 🛠️ Installation
+# 🛠️ Installation
 
 pip install -r requirements.txt
 
-# If using .py
+## If using .py
 python model_training_script.py
 
-# If using .ipynb
+## If using .ipynb
 Open with Jupyter Notebook or VS Code and run all cells.
 
 
